@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 2   | https://en.wikipedia.org/wiki/Special:Contributions/Grayratt03    | Wikipedia   |   I added a citation to an article about my hometown. The text in the article was marked with "citation needed" so I researched a blog post that was an appropriate reference.    |
 |     |     |     |      |
 |     |     |     |      |
