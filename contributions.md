@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 2   | https://en.wikipedia.org/wiki/Special:Contributions/Grayratt03    | Wikipedia   |   I added a citation to an article about my hometown.    |
+| Feb 2   | [Link](https://en.wikipedia.org/wiki/Special:Contributions/Grayratt03)    | Wikipedia   |   I added a citation to an article about my hometown.    |
 |     |     |     |      |
 |     |     |     |      |
