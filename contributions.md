@@ -26,8 +26,10 @@ Replace the first row with your own contribution.
 | Feb 9   | [Madonna][2]    | OpenStreetMap | Removed a restaurant that is no longer open.     |
 | Mar 5   | [Shakira][3]    | Issue    | Pointed out a broken link in classmate's OSSD blog.   |
 | Apr 16  | [Rihanna][4]    | Issue    | Reported an issue in the UI of an open source music player Spotube. The app wouldn't allow users to save playlists with empty descriptions, which is a feature in both Spotify and YT Music.|
+| Apr 22  | [Lady Gaga][5]    | Translation    | Added over 40 translations to Russian (ru) such as "scooter", "tolls", "electric car", "Exclude Disneyland Paris" and more. Added contact information to the header above Russian. |
 
 [1]: https://en.wikipedia.org/wiki/Special:Contributions/Grayratt03
 [2]: https://www.openstreetmap.org/user/Grayratt03/history
 [3]: https://github.com/ossd-s25/LuluZhuu-weekly/issues/2
 [4]: https://github.com/KRTirtho/spotube/issues/2654
+[5]: https://docs.google.com/spreadsheets/d/18z00Rbt6QvLIkayEV9P89vW9oU0QbTVsjRk9nz1CeFY/edit?gid=0#gid=0
