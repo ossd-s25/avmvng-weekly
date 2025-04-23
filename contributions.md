@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 [3]: https://github.com/ossd-s25/LuluZhuu-weekly/issues/2
 [4]: https://github.com/KRTirtho/spotube/issues/2654
 [5]: https://docs.google.com/spreadsheets/d/18z00Rbt6QvLIkayEV9P89vW9oU0QbTVsjRk9nz1CeFY/edit?gid=0#gid=0
+[6]: https://github.com/graphhopper/graphhopper-maps/pull/418
