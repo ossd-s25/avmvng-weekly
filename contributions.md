@@ -30,6 +30,7 @@ Replace the first row with your own contribution.
 | Apr 23     | [Ariana Grande][6] | Translation, PR    | Finished Russian translations for Graphhopper's front-end interface and created a PR with the `tr.json` file updated with all of them.  |
 | Apr 26     | [Miley Cyrus][7] | Merge   | Had my PR approved and merged into the main branch of `graphhopper-maps`  |
 | Apr 28     | [Nicki Minaj][8] | Issue | Reported an issue in the UI of Graphhopper Maps. The map option window is not working properly on mobile. I also offered to help fixing this issue.|
+| May 1     | [SZA][9] | PR | Opened a PR fixing an [issue][8] I previously opened that was assigned to me by the core maintainer. |
 
 [1]: https://en.wikipedia.org/wiki/Special:Contributions/Grayratt03
 [2]: https://www.openstreetmap.org/user/Grayratt03/history
@@ -39,3 +40,4 @@ Replace the first row with your own contribution.
 [6]: https://github.com/graphhopper/graphhopper-maps/pull/418
 [7]: https://github.com/graphhopper/graphhopper-maps/pull/418
 [8]: https://github.com/graphhopper/graphhopper-maps/issues/419
+[9]: https://github.com/graphhopper/graphhopper-maps/pull/420
