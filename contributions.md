@@ -30,7 +30,7 @@ Replace the first row with your own contribution.
 | Apr 23     | [Here][6] | Translation, PR    | Finished Russian translations for Graphhopper's front-end interface and created a PR with the `tr.json` file updated with all of them.  |
 | Apr 26     | [Here][7] | Merge   | Had my PR approved and merged into the main branch of `graphhopper-maps`  |
 | Apr 28     | [Here][8] | Issue | Reported an issue in the UI of Graphhopper Maps. The map option window is not working properly on mobile. I also offered to help fixing this issue.|
-| May 1     | [Here][9] | PR | Opened a PR fixing an [issue][8] I previously opened that was assigned to me by the core maintainer. |
+| May 1     | [Here][9] | PR | Opened a PR fixing an [issue][8] I previously opened that was assigned to me by the core maintainer. UPD: PR merged 5/3 |
 | May 3     | [Here][10] | Comment | Responded to a question by the core maintainer regarding my [PR][9]. Explained the fix and the nature of the issue (React vs. API bug). |
 
 [1]: https://en.wikipedia.org/wiki/Special:Contributions/Grayratt03
